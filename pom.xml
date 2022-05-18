@@ -4,7 +4,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>gowtham.g</groupId>
 	<artifactId>gowtham</artifactId>
-	<packaging>jar</packaging>
+	<packaging>war</packaging>
 	<version>1.0-SNAPSHOT</version>
 	<name>Simple webapp</name>
 	<description>The bare minimum for a functional webapp.</description>
