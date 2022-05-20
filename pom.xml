@@ -6,7 +6,7 @@
 	<artifactId>gowtham</artifactId>
 	<packaging>war</packaging>
 	<version>1.0-SNAPSHOT</version>
-	<name>Simple webapp</name>
+	<name>gowtham webapp</name>
 	<description>The bare minimum for a functional webapp.</description>
 	<url>https://github.com/mkspcd/MavenArchetypes</url>
 
